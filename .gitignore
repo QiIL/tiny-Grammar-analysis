@@ -1,7 +1,7 @@
 #python
-.pyc
+*.pyc
 
 #file
-.odt
-.doc
-.zip
+*.odt
+*.doc
+*.zip
