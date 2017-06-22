@@ -48,7 +48,7 @@ class Tree():
     def output_tree(self, rootobj, num):
         buf = ''
         for i in range(num):
-            buf = buf + '--'
+            buf = buf + '-----'
         if hasattr(rootobj, 'getRoot'):
             print rootobj.getRoot()
             tree_list.append(buf+str(rootobj.getRoot()))

@@ -7,7 +7,6 @@ def getToken():
     for token in TINY_PROGRAME.findall(articleCon):
         yield token
 
-
 token_generator = getToken()  # 
 
 def nextToken():

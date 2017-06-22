@@ -1,0 +1,12 @@
+if asd2=b then
+	b := 2;
+	if ass < 3 then
+		lkj := 3;
+		read x;
+		write x < 3;
+	end;
+else 
+	a := b;
+end;
+
+
